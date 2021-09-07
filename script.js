@@ -133,21 +133,3 @@ $(document).ready(function(){
 
 
     });
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
