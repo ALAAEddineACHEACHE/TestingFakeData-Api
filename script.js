@@ -11,8 +11,7 @@ $(document).ready(function(){
                 div.append(h1);
                 let p =$(`<p>${Liste[i].body}</p1>`);
                 div.append(p);  
-            $('.parent-post').append(div);   
-                            
+            $('.parent-post').append(div);      
                 
             }
         },
